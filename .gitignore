@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+.idea/
+results/*
+!results/.gitkeep
+*.pt
+*.pth
+*.log
+data/
+datasets/
+*.mat
+*.h5
+*.h5py
+!partial_labels/
+!partial_labels/*.mat
